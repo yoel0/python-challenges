@@ -12,4 +12,4 @@ def alphabetize(string):
     return new_string
 
 
-print(alphabetize("supercalifragilisticexpialidocious"))
+print(alphabetize("hakunamatata"))
